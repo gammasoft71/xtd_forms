@@ -1,5 +1,7 @@
 [![forms](docs/pictures/header.png)](https://gammasoft71.wixsite.com/xtd-forms)
 
+# xtd_forms was merged into [xtd](https://github.com/gammasoft71/xtd).
+
 [![Build Status](https://travis-ci.org/gammasoft71/xtd_forms.svg?branch=master)](https://travis-ci.org/gammasoft71/xtd_forms)
 [![Build status](https://ci.appveyor.com/api/projects/status/ok6m6omcftt8qque?svg=true)](https://ci.appveyor.com/project/gammasoft71/xtd-forms)
 [![Reference Guide](https://img.shields.io/badge/code-Reference_Guide-brightgreen.svg)](https://codedocs.xyz/gammasoft71/xtd_forms/)
